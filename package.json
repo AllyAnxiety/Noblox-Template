@@ -1,0 +1,14 @@
+{
+  "name": "noblox-handler",
+  "version": "1.0.1",
+  "description": "",
+  "main": "noblox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AllyAnxiety",
+  "license": "ISC",
+  "dependencies": {
+    "noblox.js": "^4.14.1"
+  }
+}
